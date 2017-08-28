@@ -1,2 +1,0 @@
-# GitMicroServiceSample
-GitMicroServiceSample
